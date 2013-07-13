@@ -11,7 +11,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 解决方案
-tagline: Site Tagline
+tagline: 用数据说话
 author :
   name : xyzmdm
   email : xyzmdm@gmail.com
