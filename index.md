@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Here!
+title: Welcome to XYZ!
 tagline: 分享 发现 沟通
 ---
 {% include JB/setup %}

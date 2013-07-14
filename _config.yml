@@ -10,9 +10,9 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 解决方案
-tagline: 用数据说话
-author :
+title : xyz
+tagline: 
+author : 分享 发现 沟通 
   name : xyzmdm
   email : xyzmdm@gmail.com
   github : xyzmdm
