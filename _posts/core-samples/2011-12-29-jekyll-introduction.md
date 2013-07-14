@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : Tools
 ---
 {% include JB/setup %}
 
